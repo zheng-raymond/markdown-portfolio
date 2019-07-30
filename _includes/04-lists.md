@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Janpanese food 
+  * sushi
+  * sashimi
+  * ramen
+* chinese food
+  * cantonese food
+  * hk food
